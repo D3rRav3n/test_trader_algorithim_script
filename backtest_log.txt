@@ -1,0 +1,4 @@
+2025-09-02 12:32:34,536 - INFO - Starting advanced optimization for AAPL from 2018-01-01 to 2023-01-01...
+2025-09-02 12:32:34,537 - INFO - Detailed logs will be written to '/home/ravenguard/Projects/test_trader_algorithm/backtest_log.txt'
+2025-09-02 12:32:35,975 - INFO - 
+--- Testing Strategy: MA(20,100), RSI(10), BB_Std(1) ---
